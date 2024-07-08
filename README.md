@@ -1,5 +1,5 @@
-CancerVision AI
-Overview
+# CancerVision AI
+
 
 CancerVision AI is a deep learning model designed for early detection and diagnosis of cancer from medical imaging data. Leveraging state-of-the-art deep learning techniques, CancerVision AI aims to assist medical professionals in accurately identifying cancerous tumors and lesions from various types of medical imaging modalities.
 Features
